@@ -1,16 +1,42 @@
-## Hi there 👋
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Wangbiao2&show_icons=true&theme=transparent&hide_title=true&hide_rank=true" alt="stat" />
+<img align="right" src="https://komarev.com/ghpvc/?username=Wangbiao2" alt="hiyouga" />
 
-<!--
-**Wangbiao2/Wangbiao2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Biao Wang
 
-Here are some ideas to get you started:
+### *MA.Eng. Student*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Beihang University
+
+37 Xueyuan Rd., Haidian Dist.
+
+Beijing, China, 100191
+
+## Education
+
+- 2022.09-2025.06* Beihang University (BUAA). MA.Eng.
+- 2018.09-2022.06 Dalian University of Technology (DUT). B.Eng.
+
+## Career/Research Interests
+- Computer Vision
+- Content Governance
+- Object Tracking/Detection
+- Multimodel Large Language Model
+- Natural Language Processing
+- Large Language Models
+- Machine Learning
+
+## Skills
+
+- Natural Language: Chinese (Native); English (CET-6);
+- Programming Language: **Python**; MATLAB; C++; C; SQL; Verilog HDL;
+- Typesetting Language: **LaTeX**; Markdown
+- Programming Framework: **PyTorch**; Transformers; TensorFlow
+
+
+## Academic Service
+
+- Conference Reviewer: ICRA
+- Journal Reviewer: TCSVT
+
+# ...
+Life is a Journey. I will keep learning and growing.
