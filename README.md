@@ -17,13 +17,10 @@ Beijing, China, 100191
 - 2018.09-2022.06 Dalian University of Technology (DUT). B.Eng.
 
 ## Career/Research Interests
-- Computer Vision
-- Content Governance
-- Object Tracking/Detection
-- Multimodel Large Language Model
-- Natural Language Processing
-- Large Language Models
-- Machine Learning
+- Computer Vision (CV)
+- Content Governance*
+- Object Tracking/Detection (OT/OD)
+- Multimodel Large Language Model/Large Language Models (MLLM/LLM)
 
 ## Skills
 
