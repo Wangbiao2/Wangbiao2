@@ -26,8 +26,8 @@ Beijing, China, 100191
 
 - Natural Language: Chinese (Native); English (CET-6);
 - Programming Language: **Python**; MATLAB; C++; C; SQL; Verilog HDL;
-- Typesetting Language: **LaTeX**; Markdown
-- Programming Framework: **PyTorch**; Transformers; TensorFlow
+- Typesetting Language: **LaTeX**; Markdown;
+- Programming Framework: **PyTorch**; Transformers;
 
 
 ## Academic Service
