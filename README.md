@@ -20,7 +20,7 @@ Beijing, China, 100191
 - Computer Vision (CV)
 - Content Governance*
 - Object Tracking/Detection (OT/OD)
-- Multimodel Large Language Model/Large Language Models (MLLM/LLM)
+- Multi-modal Large Language Model/Large Language Models (MLLM/LLM)
 
 ## Skills
 
