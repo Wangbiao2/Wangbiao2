@@ -11,6 +11,10 @@ Beihang University
 
 Beijing, China, 100191
 
+Phone/Wechat：+86-15612713911
+
+E-Mail: 1722099057@qq.com / wangbiao301@buaa.edu.cn
+
 ## Education
 
 - 2022.09-2025.06* Beihang University (BUAA). MA.Eng.
