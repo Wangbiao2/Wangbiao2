@@ -20,7 +20,7 @@ E-Mail: 1722099057@qq.com / wangbiao301@buaa.edu.cn
 - 2022.09-2025.06* Beihang University (BUAA). MA.Eng.
 - 2018.09-2022.06 Dalian University of Technology (DUT). B.Eng.
 
-## Career/Research Interests
+## Interests
 - Computer Vision (CV)
 - Content Governance*
 - Object Tracking/Detection (OT/OD)
